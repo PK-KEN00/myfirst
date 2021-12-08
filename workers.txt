@@ -7,6 +7,7 @@ employee list
    morthy
    rose
    pink
+   brown
    
    
    
