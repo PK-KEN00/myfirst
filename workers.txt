@@ -5,9 +5,7 @@ employee list
    
    salman
    morthy
-   rose
-   pink
-   brown
+   
    
    
    
