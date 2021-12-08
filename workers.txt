@@ -3,7 +3,10 @@ welcome to my first prject
 employee list
    jahir
    
-   
+   salman
+   morthy
+   rose
+   pink
    
    
    
